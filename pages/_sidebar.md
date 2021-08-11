@@ -1,0 +1,3 @@
+- [主页](/Home)
+- [工具特性](/Tools-Traits)
+- [防具特性](/Armor-Traits)
