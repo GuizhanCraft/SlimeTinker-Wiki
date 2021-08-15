@@ -67,7 +67,7 @@
 | 氢气 | 受到伤害时获得飘浮效果 | 硅铁 | 工具头 | Slimefun |
 | 超立方体 (A) | 只有 (A) 与 (B) 同时存在时才会生效。Shift+右键点击存储位置，右键点击传送到存储的位置 (10分钟冷却时间) | 光学材料 | 工具头 | DynaTech |
 | 超立方体 (B) | 只有 (A) 与 (B) 同时存在时才会生效。Shift+右键点击存储位置，右键点击传送到存储的位置 (10分钟冷却时间) | 幽灵精华 | 手柄 | DynaTech |
-| Incoporeal Right | Tool cannot be dropped or lost on death | 非专利品 | 手柄 | Slimefun Warfare |
+| 无形权利 | 工具无法被丢弃，不会在死亡时掉落 | 非专利品 | 手柄 | Slimefun Warfare |
 | 幽灵形态 | 免疫来自弹射物的伤害 | 幽灵精华 | 绑定结 | DynaTech |
 | 无尽 | 这件工具永远不会损坏 | 无尽 | 工具头 | Infinity Expansion |
 | 不对劲 | ? | 青铜 | 手柄 | Slimefun |
@@ -81,7 +81,7 @@
 | 宽宏大量 | 别再丢东西了! | 镁合金 | 工具头 | Infinity Expansion |
 | 磁铁 | 随机捡起附近5格范围内的物品 | 镁 | 手柄 | Slimefun |
 | 磁铁 II | 随机捡起附近10格范围内的物品 | 镁结构 | 手柄 | Infinity Expansion |
-| 幸运 | 减少50%输出伤害，获得幸运效果 | 工具头 | Slimefun |
+| 幸运 | 减少50%输出伤害，获得幸运效果 | 锡 | 工具头 | Slimefun |
 | 幸运 II | 减少50%输出伤害，获得幸运II与速度II效果 | 锡结构 | 工具头 | Infinity Expansion |
 | 不知礼，无以立也 | 获得速度效果，增加50%输出伤害，战斗过程变得炫酷 | 精炼铁 | 手柄 | LiteXpansion |
 | 商人面纱 | 没有副作用的隐身 (获得隐身III效果) | 时运奇点 | 手柄 | Infinity Expansion |
