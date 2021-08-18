@@ -56,7 +56,7 @@
 | 金色面纱 II | 获得隐身效果，用在武器上时增加50%伤害 | 金结构 | 工具头 | Infinity Expansion |
 | 海豚的恩惠 | 获得海豚的恩惠效果 | 锌 | 工具头 | Slimefun |
 | 海豚的恩惠 II | 获得海豚的恩惠II效果 | 锌结构 | 工具头 | Infinity Expansion |
-| 粉碎机 | 破坏方块时的掉落物就像经过了粉碎机一样 | 手柄 | Infinity Expansion |
+| 粉碎机 | 破坏方块时的掉落物就像经过了粉碎机一样 | 地球奇点 | 手柄 | Infinity Expansion |
 | 生长 | 在白天缓慢修复工具 | 藤蔓 | 绑定结 | Slimefun |
 | 耐热 | 你可以在岩浆里游泳 (免疫火焰与岩浆伤害) | 镁钍合金 | 工具头 | LiteXpansion |
 | 锤子 | 可挖掘 3x3x3 区域 | 硬化金属 | 手柄 | Slimefun |
