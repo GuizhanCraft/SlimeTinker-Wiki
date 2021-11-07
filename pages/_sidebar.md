@@ -1,3 +1,6 @@
 - [主页](/Home)
-- [工具特性](/Tools-Traits)
-- [防具特性](/Armor-Traits)
+- 教程
+    - [下载与安装](/Install-SlimeTinker)
+- 特性列表
+    - [工具特性](/Tools-Traits)
+    - [防具特性](/Armor-Traits)
