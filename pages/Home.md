@@ -1,6 +1,12 @@
 # 主页 :id=home
 
-![](https://cdn.jsdelivr.net/gh/Sefiraat/SlimeTinker/images/logo/logo_large.png ':size=50%')
+![](https://cdn.jsdelivr.net/gh/ybw0014/SlimeTinker/images/logo/logo_large.png ':size=50%')
+
+> 
+> 本 Wiki 新增已备案部署地址，目前可通过以下两个地址访问，访问速度几乎没有差别：  
+> - https://slimetinker.guizhanss.wiki/  
+> - https://slimetinker-wiki.guizhanss.cn/
+> 
 
 欢迎来到 SlimeTinker 的非官方中文 Wiki! 本 Wiki 由[ybw0014](https://github.com/ybw0014)维护。
 
