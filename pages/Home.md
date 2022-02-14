@@ -10,7 +10,7 @@
 
 欢迎来到 SlimeTinker 的非官方中文 Wiki! 本 Wiki 由[ybw0014](https://github.com/ybw0014)维护。
 
-汉化版SlimeTinker中，将使用**粘液匠魂**、**匠魂**来指代SlimeTinker。[点此下载](https://github.com/ybw0014/SlimeTinker)汉化版粘液匠魂。
+汉化版SlimeTinker中，将使用**粘液匠魂**、**匠魂**来指代SlimeTinker。[点此下载](/Install-SlimeTinker)汉化版粘液匠魂。
 
 ----
 

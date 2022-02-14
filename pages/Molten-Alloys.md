@@ -10,3 +10,5 @@
 - LiteXpansion 工业
 - DynaTech 动力科技
 - SlimefunWarfare 战争工艺
+- TranscEndence 末地科技
+- Networks 网络

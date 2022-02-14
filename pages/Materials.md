@@ -2,19 +2,6 @@
 
 材料分类包含建筑材料、部分模组、以及金属粒/锭/块。
 
-<details>
-<summary>目录</summary>
-
-- [水泥](#grout)
-- [焦黑砖](#seared-brick)
-- [冶炼炉控制器](#smeltery-controller)
-- [焦黑液罐](#seared-tank)
-- [焦黑浇铸口](#spout)
-- [焦黑石砖](#seared-brick-block)
-- [强化合金板](#reinforced-plate)
-- [金属粒/锭/块](#metal-nugget-ingot-block)
-</details>
-
 ## 内容 :id=content
 
 ### 水泥 :id=grout
