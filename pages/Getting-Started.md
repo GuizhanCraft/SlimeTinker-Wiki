@@ -45,7 +45,7 @@
 
 以下是一把组装完成的匠魂剑:
 
-![匠魂剑](https://cdn.jsdelivr.net/gh/ybw0014/SlimeTinker-Wiki@master/images/tinkers-sword.png ':size=50%')
+![匠魂剑](https://cdn.jsdelivr.net/gh/SlimefunGuguProject/SlimeTinker-Wiki@master/images/tinkers-sword.png ':size=50%')
 
 ## 6. 升级与模组
 
