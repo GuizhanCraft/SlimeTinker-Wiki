@@ -1,7 +1,10 @@
-# SlimeTinker Wiki
+# SlimeTinker 非官方中文 Wiki
 
-这里是 SlimeTinker 的非官方中文Wiki，由ybw0014维护。
+官方Wiki (英文):   
+https://docs.sefiraat.dev/slimetinker/basics
 
-官方Wiki (英文): [https://github.com/Sefiraat/SlimeTinker/wiki](https://github.com/Sefiraat/SlimeTinker/wiki)
+Cloudflare Pages 部署地址 (国外访问速度较快):  
+https://slimetinker.guizhanss.wiki/
 
-本Wiki地址: [https://slimetinker.guizhanss.wiki/](https://slimetinker.guizhanss.wiki/)
+Webify 部署地址 (国内访问速度较快):  
+https://slimetinker-wiki.guizhanss.cn/
