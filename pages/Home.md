@@ -2,12 +2,6 @@
 
 ![](https://cdn.jsdelivr.net/gh/SlimefunGuguProject/SlimeTinker/images/logo/logo_large.png ':size=50%')
 
-> 
-> 本 Wiki 新增已备案部署地址，目前可通过以下两个地址访问，访问速度几乎没有差别：  
-> - https://slimetinker.guizhanss.wiki/  
-> - https://slimetinker-wiki.guizhanss.cn/
-> 
-
 欢迎来到 SlimeTinker 的非官方中文 Wiki! 本 Wiki 由[ybw0014](https://github.com/ybw0014)维护。
 
 汉化版SlimeTinker中，将使用**粘液匠魂**、**匠魂**来指代SlimeTinker。[点此下载](/Install-SlimeTinker)汉化版粘液匠魂。
@@ -29,6 +23,7 @@ SlimeTinker 是一个 Slimefun4 的附属插件，致力于在非模组服务器
 * 工具与防具不会损坏，但你需要在它们损坏后使用同一类型的金属修复，否则你将无法继续使用工具。护甲则会自动卸到物品栏中。
 * 可以随时更换部件，工具/防具等级会保留。
 * 所有适用的效果和模组都能与原版附魔一起使用。
+* 支持禁用特性
 
 ## 计划中的新功能: :id=planned-features
 
