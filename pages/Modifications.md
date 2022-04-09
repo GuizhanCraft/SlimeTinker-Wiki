@@ -2,13 +2,13 @@
 
 在匠魂的装备升级后，会增加模组栏位。你可以在这个分类中找到所有可用的模组。
 
-目前，除[强化合金板](/Materials#reinforced-plate)外，所有模组物品都是原版Minecraft中的物品。
+目前，除[强化合金板](./Materials#reinforced-plate)外，所有模组物品都是原版Minecraft中的物品。
 
 ## 安装模组 :id=apply-modifications
 
 要给匠魂物品安装模组，请先确认该匠魂物品还有模组栏位。
 
-打开[匠魂模组工作站](/Workstations#tinkers-mod-station)，在第一栏放入要安装模组的物品，在第二栏放入模组，然后点击"安装模组"即可。
+打开[匠魂模组工作站](./Workstations#tinkers-mod-station)，在第一栏放入要安装模组的物品，在第二栏放入模组，然后点击"安装模组"即可。
 
 ## 模组列表 :id=modifications-list
 
@@ -21,4 +21,4 @@
 | 石英 | 增加武器/工具伤害，每级提升20%效果 | 工具/武器 |
 | 钻石 | 受到伤害时有几率反弹，每级提升10%效果 | 工具/武器 |
 | 绿宝石 | 获得额外工具/武器经验，每级额外增加1点工具经验或10%武器经验 | 工具/武器 |
-| [强化合金板](/Materials#reinforced-plate) | 每级增加10%不消耗耐久的几率 | 工具/武器/防御 |
+| [强化合金板](./Materials#reinforced-plate) | 每级增加10%不消耗耐久的几率 | 工具/武器/防御 |

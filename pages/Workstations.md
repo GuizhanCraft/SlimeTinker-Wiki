@@ -5,7 +5,7 @@
 ## 内容 :id=table-of-contents
 
 - [匠魂合成站](#tinkers-workbench)
-- [匠魂冶炼炉](/Tinkers-Smeltery)
+- [匠魂冶炼炉](./Tinkers-Smeltery)
 - [匠魂工具组装台](#tinkers-table)
 - [匠魂防具组装台](#tinkers-armour-table)
 - [匠魂修复台](#tinkers-repair-bench)
@@ -39,4 +39,4 @@
 
 ### 匠魂模组工作站 :id=tinkers-mod-station
 
-匠魂模组工作站用于向工具/武器/防具安装模组。所有可用的模组可以在[模组](/Modifications)分类查看。
+匠魂模组工作站用于向工具/武器/防具安装模组。所有可用的模组可以在[模组](./Modifications)分类查看。

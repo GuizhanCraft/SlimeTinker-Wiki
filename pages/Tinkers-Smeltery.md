@@ -1,6 +1,6 @@
 # 匠魂冶炼炉 :id=tinkers-smeltery
 
-匠魂冶炼炉是粘液匠魂中最重要的[工作站](/Workstations)，它是一个多方块结构。
+匠魂冶炼炉是粘液匠魂中最重要的[工作站](./Workstations)，它是一个多方块结构。
 
 ## 建造 :id=building
 
@@ -8,8 +8,8 @@
 
 ![匠魂冶炼炉](https://cdn.jsdelivr.net/gh/SlimefunGuguProject/SlimeTinker-Wiki@master/images/tinkers-smeltery.png ':size=50%')
 
-其中，最上面的3个方块与最下面的3个方块是[焦黑石砖](/Materials#seared-brick-block)。中间左侧的方块是[焦黑液罐](/Materials#seared-tank)，中间右侧的方块是[焦黑浇筑口](/Materials#spout)。  
-最中间的方块是[冶炼炉控制器](/Materials#smeltery-controller)。当所有方块都放在正确位置时，右键点击冶炼炉控制器即可打开，否则会弹出一条消息。
+其中，最上面的3个方块与最下面的3个方块是[焦黑石砖](./Materials#seared-brick-block)。中间左侧的方块是[焦黑液罐](./Materials#seared-tank)，中间右侧的方块是[焦黑浇筑口](./Materials#spout)。  
+最中间的方块是[冶炼炉控制器](./Materials#smeltery-controller)。当所有方块都放在正确位置时，右键点击冶炼炉控制器即可打开，否则会弹出一条消息。
 
 ## 使用 :id=usage
 
@@ -23,7 +23,7 @@
 
 ### 模具/模具原型栏 :id=cast-slot
 
-模具/模具原型栏是由黄绿色染色玻璃包括的部分。可以在该栏位中放入模具、模具原型或模具制作材料。具体内容请查看[铸件](/Casts)分类。
+模具/模具原型栏是由黄绿色染色玻璃包括的部分。可以在该栏位中放入模具、模具原型或模具制作材料。具体内容请查看[铸件](./Casts)分类。
 
 ### 输出栏 :id=output-slot
 
